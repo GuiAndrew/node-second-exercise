@@ -1,0 +1,17 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "wilders exercice",
+  "scripts": {
+    "test": "Error: no test specified && exit 1"
+  },
+  "keywords": [
+    "RESTful"
+  ],
+  "main": "server.js",
+  "author": "GuiAndrew",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
+}
